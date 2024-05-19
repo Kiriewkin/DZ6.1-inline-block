@@ -38,24 +38,13 @@ body {
 }
 
 .home {
-    display: inline-block;
-    margin-right: 50px;
-    margin-top: 8px;
     margin-left: 229px;
-    color: rgba(61, 61, 61, 1);
-    text-decoration: none;
     border-bottom: 3px solid rgba(70, 163, 88, 1);
     padding-bottom: 25px;
 }
 
 .blogs {
-    display: inline-block;
-    margin-top: 8px;
-    margin-bottom: 25px;
-    margin-right: 307px;
-    color: rgba(61, 61, 61, 1);
-    text-decoration: none;
-
+    margin-right: 0px
 }
 
 .button-login {
@@ -63,6 +52,7 @@ body {
     background-color: white;
     display: inline-block;
     vertical-align: middle;
+    margin-left: 307px;
     padding: 0px;
 }
 
